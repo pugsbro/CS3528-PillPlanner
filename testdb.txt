@@ -1,0 +1,11 @@
+#701#Xanax#Description#7#3#4#0.8#Aspirin
+#905#Thyroxin#Iodine#24#1#2#0.012/0.25/0.5/0.75/1#None
+#1021#Aspirin#Something for the mind#1#8#10#0.6#Anadin
+#1023#Paracetamol#Painkiller#4/6#3/2#5/3#0.5/0.75#Morphine
+#1030#Ibuprofen#Description#5#3#4#0.25#Nurofen
+#1050#Panadol Advance#Paracetamol,Painkiller#8#2#3#0.5#Paracetamol/Ibuprofen/Morphine
+#2110#Nurofen#Ibuprofen,Phenyleprine#8#2#3#0.2#Ibuprofen
+#21509#Otrivine#Nasal drops#6#2#3#0.75#None
+#30001#Penicilin#Antibiotic#8#4#4#1#Paracetamol/Ibuprofen/Morphine/Sugar/Milk
+#50145#Difflam Spray#Benzydamine Hydrochloride#1.5/3#6/4#8/6#0.02#Strepsils
+1523920459.8160279
